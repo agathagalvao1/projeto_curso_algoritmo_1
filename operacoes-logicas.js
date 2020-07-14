@@ -7,7 +7,6 @@
    escreval("Digite a nota 02 do aluno:")
    leia (nota02)
       media :=(nota01+nota02)/2
-
    
    se media >= 50 entao
       passou:= verdadeiro
