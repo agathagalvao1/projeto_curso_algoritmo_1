@@ -1,5 +1,4 @@
 // duas barras é o comentario de linha
-
 /*
 posso colocar tudo que eu quiser dentro desse bloco separado por essas barras e asteriscos
 */

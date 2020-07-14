@@ -3,7 +3,6 @@ Var
 // Seção de Declarações das variáveis 
   nota01, nota02: real
   
-
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
   nota01:= 10
